@@ -14,7 +14,7 @@ By default, the server listens on port 8000.
 
 Run the container with the following command:
 ```none
-$ docker run --rm -it -p8000:8000 jksmth/http-debug:latest
+$ docker run --rm -it -p8000:8000 jsmth/http-debug:latest
 ```
 
 # Curl Example
