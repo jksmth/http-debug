@@ -1,0 +1,5 @@
+# Ignore pythong .venv for pre-commit
+.venv/
+
+# ignore JetBrains IDEs .idea folder
+.idea/
